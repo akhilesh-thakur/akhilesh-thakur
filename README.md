@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Thakur</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">Hi I'm Akhilesh Thakur</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swadesh-231&label=Profile%20views&color=0e75b6&style=flat" alt="swadesh-231" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh" /> </p>
 
-- 🌱 I’m currently learning **Numpy,Pandas,Matplotlib**
-
-- 💬 Ask me about **Java,Python,R,DataAnalysis,MechineLearning**
-
-- 📫 How to reach me **swadeshchatterjee512@gmail.com**
-
-
-Hi this is Akhilesh Thakur I am a passionate Web Developer
-I have the following skills:
+The skills and abilities he has are:
 1. HTML
 2. CSS
 3. JS
