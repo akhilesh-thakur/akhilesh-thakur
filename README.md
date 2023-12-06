@@ -1,9 +1,9 @@
 <h1 align="center">Hi I'm Akhilesh Thakur</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithharry&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh" /> </p>
 
-The skills and abilities he has are:
+Skills and abilities he has are:
 1. HTML
 2. CSS
 3. JS
