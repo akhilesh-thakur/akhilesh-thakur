@@ -1,22 +1,32 @@
-<h1 align="center">Hi I'm Akhilesh Thakur</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+# Hello, I'm Akhilesh Thakur! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithharry&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh" /> </p>
+I'm a passionate React Develper from Mumbai,IN I love to explore new technologies and solve real-world problems.
 
-Skills and abilities he has are:
-1. HTML
-2. CSS
-3. JS
-4. TAILWIND CSS
-5. REACT JS
-6. NODE JS
-7. EXPRESS JS
-8. MONGO DB
-9. MYSQL
-10. DIGITALOCEAN
-11. AWS
-12. LINUX
-13. DOCKER
-14. GIT
-15. API WITH POSTMAN
-16. PYTHON
+## 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)...
+
+## 🌱 Currently Learning
+
+- [React.js | Next.js | Redux]
+
+## 🚀 Projects
+
+- [Project 1: Comming soon..](link-to-project)
+- [Project 2: Comming Soon..](link-to-project)
+...
+
+## 📫 Contact Me
+
+- Email: [contact.akhileshthakur@gmail.com]
+- LinkedIn: [akhileshthakurofficial](https://www.linkedin.com/in/akhileshthakurofficial/)
+- Leetcode: [akhileshthakur](https://leetcode.com/akhileshthakur/)
+- Twitter: [akhileshthakur](https://twitter.com/_akhileshthakur)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+
