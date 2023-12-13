@@ -16,8 +16,8 @@ I'm a passionate React Developer from Mumbai,IN. I love to explore new technolog
 
 ## 🚀 Projects
 
-- [Project 1: Comming soon..](link-to-project)
-- [Project 2: Comming Soon..](link-to-project)
+- [Project 1: Coming soon..](link-to-project)
+- [Project 2: Coming Soon..](link-to-project)
 ...
 
 ## 📫 Contact Me
