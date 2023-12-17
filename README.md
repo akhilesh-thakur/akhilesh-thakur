@@ -1,4 +1,4 @@
-# Hello, I'm Akhilesh Thakur!
+# Hello, I'm Akhilesh!
 
 I'm a passionate React Developer from Mumbai,IN. I love to explore new technologies and solve real-world problems.
 
@@ -22,7 +22,6 @@ I'm a passionate React Developer from Mumbai,IN. I love to explore new technolog
 
 ## 📫 Contact Me
 
-- Email: [contact.akhileshthakur@gmail.com]
 - LinkedIn: [akhileshthakurofficial](https://www.linkedin.com/in/akhileshthakurofficial/)
 - Leetcode: [akhileshthakur](https://leetcode.com/akhileshthakur/)
 - Twitter: [akhileshthakur](https://twitter.com/_akhileshthakur)
