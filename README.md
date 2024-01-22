@@ -1,6 +1,6 @@
 # Hello, I'm Akhilesh!
 
-I'm a passionate React Developer from Mumbai,IN. I love to explore new technologies and solve real-world problems.
+I'm a passionate Nextjs Developer from Mumbai. I love to explore new technologies and solve real-world problems.
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
@@ -12,12 +12,11 @@ I'm a passionate React Developer from Mumbai,IN. I love to explore new technolog
 
 ## 🌱 Currently Learning
 
-- [React.js | Next.js | Redux]
+- [React Native | Next.js | Django]
 
 ## 🚀 Projects
 
 - [Project 1: Coming soon..](link-to-project)
-- [Project 2: Coming Soon..](link-to-project)
 ...
 
 ## 📫 Contact Me
