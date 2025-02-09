@@ -1,4 +1,6 @@
 # Hello, I'm Akhilesh!
+[akhileshthakur.tech](https://akhileshthakur.tech)
+
 
 I'm a passionate Nextjs Developer from Mumbai. I love to explore new technologies and solve real-world problems.
 
